@@ -77,6 +77,8 @@ stuf here
 
 body{
   background-color: #222;
+  margin: 0;
+  padding: 0;
 }
 
 .logo{
@@ -99,12 +101,15 @@ p{
 .decade{
   text-align: center;
   width: 100vw;
-  left: 0;
-  position: absolute;
+  margin: 0;
 }
 
 .d50s{
   background-color: deeppink;
+}
+
+.d60s{
+  background-color: darkmagenta;
 }
 
 .map{
