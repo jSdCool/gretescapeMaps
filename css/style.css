@@ -1,5 +1,5 @@
 html {
-  color: #222;
+  color: #ffecf9;
   font-size: 1em;
   line-height: 1.4;
 }
@@ -63,6 +63,55 @@ textarea {
 }
 
 
+/*
+stuf here
+ */
+.header{
+  text-align: center;
+  padding: 1em;
+}
+.headText{
+  text-align: center;
+  font-size: 4em;
+}
+
+body{
+  background-color: #222;
+}
+
+.logo{
+  height: 15em;
+}
+
+h1{
+  font-size: 4em;
+}
+h2{
+  font-size: 2.5em;
+}
+
+.decade{
+  text-align: center;
+  width: 100vw;
+  left: 0;
+  position: absolute;
+}
+
+.d50s{
+  background-color: deeppink;
+}
+
+.map{
+  width: 80%
+}
+
+
+
+
+a:link{color: #09b6fd; text-decoration:none; font-weight: bold;}
+a:visited{color:#09b6fd; text-decoration:none;}
+a:hover{color:#03b0f7; text-decoration:none;}
+a:active{color:#09b6fd  ; text-decoration:none;}
 /*
  * Hide visually and from screen readers
  */
