@@ -89,6 +89,12 @@ h1{
 h2{
   font-size: 2.5em;
 }
+p{
+  /*width: 80%;*/
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
 
 .decade{
   text-align: center;
